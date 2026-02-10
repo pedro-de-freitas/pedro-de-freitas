@@ -97,14 +97,3 @@ Meu nome é Pedro de Freitas, tenho 20 anos e sou natural de Recife - Pernambuco
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<div>
-    <br>
-    <br>
-    <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedro-de-freitas&theme=radical" alt="Top languages by repo badge"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedro-de-freitas&theme=tokyonight" alt="General stats badge"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-de-freitas&theme=radical" alt="Profile details badge"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedro-de-freitas&theme=radical" alt="Top languages by commit badge"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedro-de-freitas&theme=radical&utcOffset=8" alt="Commits per day badge"/>
-</div>
