@@ -97,3 +97,11 @@ Meu nome é Pedro de Freitas, tenho 20 anos e sou natural de Recife - Pernambuco
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+###
+<br>
+<br>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedro-de-freitas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
