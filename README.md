@@ -96,4 +96,6 @@ Meu nome é Pedro de Freitas, tenho 20 anos e sou natural de Recife - Pernambuco
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+/><br /><br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-de-freitas&layout=compact)
