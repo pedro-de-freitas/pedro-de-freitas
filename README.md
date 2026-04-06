@@ -2,7 +2,7 @@
 
 **`Estudante ciência da computação`**
 
-Meu nome é Pedro de Freitas, tenho 20 anos e sou natural de Recife - Pernambuco. cSou estudante de ciência da computação. Sou apaixonado por tecnologia e compartilho alguns dos meus projetos e evolução por aqui pelo github, e alguns pelo meu instagram pessoal logo abaixo.
+Meu nome é Pedro de Freitas, tenho 20 anos e sou natural de Recife - Pernambuco. Sou estudante de ciência da computação. Sou apaixonado por tecnologia e compartilho alguns dos meus projetos e evolução por aqui pelo github, e alguns pelo meu instagram pessoal logo abaixo.
 
 <p align="left">
     <a href="https://www.instagram.com/pedrodfreitasv/">
