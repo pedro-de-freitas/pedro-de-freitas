@@ -1,315 +1,243 @@
 <div align="center">
 
-# `PEDRO DE FREITAS`
+# Pedro de Freitas
 
-### `CIÊNCIA DA COMPUTAÇÃO` · `DESENVOLVIMENTO DE SOFTWARE`
+### Desenvolvedor de Software · Estudante de Ciência da Computação
 
-**Construindo soluções através de código, tecnologia e aprendizado contínuo.**
+**Front-end · Back-end · Banco de Dados · Desenvolvimento Web**
 
 <br>
 
 <a href="https://portfolio-pedro-henrique-de-freitas.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
 </a>
-&nbsp;
-<a href="https://github.com/pedro-de-freitas">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/pedro-henrique-de-freitas-131b68434/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-<br><br>
-
-`RECIFE • PERNAMBUCO • BRASIL`
-
-</div>
-
----
-
-## `01` — SOBRE MIM
-
-Olá! Eu sou **Pedro de Freitas**, estudante de **Ciência da Computação** e desenvolvedor apaixonado por tecnologia.
-
-Tenho interesse em **desenvolvimento de software, aplicações web, back-end, bancos de dados e fundamentos da computação**.
-
-Gosto de aprender colocando conhecimento em prática: desenvolvo projetos, estudo novas tecnologias e busco transformar ideias e problemas em soluções reais.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   > Ciência da Computação                                  │
-│   > Desenvolvimento de Software                            │
-│   > Desenvolvimento Web                                    │
-│   > Back-end & Banco de Dados                               │
-│   > Aprendizado contínuo                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `02` — PORTFÓLIO
-
-<div align="center">
-
-### 🌐 Meu portfólio
-
-Um pouco mais sobre mim, meus projetos, experiências e tecnologias.
+<a href="mailto:pedrohenriquedefreitasvl@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+</a>
 
 <br>
 
-<a href="https://portfolio-pedro-henrique-de-freitas.netlify.app/">
-  <img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Acessar Portfólio">
-</a>
+📍 Recife, Pernambuco, Brasil
 
 </div>
 
 ---
 
-## `03` — STACK
+## Sobre mim
 
-### `LINGUAGENS`
+Sou **Pedro de Freitas**, estudante de **Ciência da Computação no CESAR School** e desenvolvedor de software com experiência prática em desenvolvimento web e tecnologia.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" alt="TypeScript">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" alt="Python">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" alt="PHP">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="SQL" alt="SQL">
+Minha experiência envolve a criação e manutenção de aplicações, desenvolvimento de interfaces, integração entre **front-end, back-end e banco de dados**, além de experiência com suporte e infraestrutura de TI.
+
+Tenho interesse em construir software com boas práticas, interfaces funcionais e soluções que resolvam problemas reais.
+
+Atualmente, estou direcionando minha carreira para **desenvolvimento Full Stack**, aprofundando meus conhecimentos em TypeScript, React, Next.js, Node.js, NestJS, bancos de dados e engenharia de software.
+
+---
+
+## Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" title="PHP" alt="PHP">
 </p>
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `Python` · `PHP` · `SQL`
 
 ---
 
-### `FRONT-END`
+### Front-end
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" alt="React">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" alt="Next.js">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" alt="Tailwind CSS">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="40" title="Material UI" alt="Material UI">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" alt="Bootstrap">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" alt="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS" alt="Tailwind CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="45" title="Material UI" alt="Material UI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" alt="Bootstrap">
 </p>
 
-`React` · `Next.js` · `Tailwind CSS` · `Material UI` · `Bootstrap`
+**React · Next.js · Tailwind CSS · Material UI · Bootstrap**
 
 ---
 
-### `BACK-END`
+### Back-end
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" title="NestJS" alt="NestJS">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" title="Prisma" alt="Prisma">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" title="NestJS" alt="NestJS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="45" title="Prisma" alt="Prisma">
 </p>
 
-`Node.js` · `NestJS` · `Prisma`
+**Node.js · NestJS · Prisma**
 
 ---
 
-### `BANCO DE DADOS`
+### Banco de Dados
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL" alt="MySQL">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" alt="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" alt="MySQL">
 </p>
 
-`PostgreSQL` · `MySQL` · `SQL`
+**PostgreSQL · MySQL · SQL**
 
 ---
 
-### `FERRAMENTAS`
+### Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub" alt="GitHub">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" title="Vite" alt="Vite">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="45" title="Vite" alt="Vite">
 </p>
 
-`Git` · `GitHub` · `Vite`
+**Git · GitHub · Vite**
 
 ---
 
-## `04` — PROJETOS
+### Design e Prototipação
 
-### `PROJETOS PÚBLICOS`
-
-Meus repositórios públicos reúnem projetos desenvolvidos para **estudo, experimentação e aplicação prática de conhecimentos**.
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│  WEB DEVELOPMENT                                          │
-│  React · TypeScript · JavaScript · PHP                    │
-│                                                           │
-│  BACK-END                                                 │
-│  Node.js · NestJS · Prisma                                │
-│                                                           │
-│  COMPUTAÇÃO                                               │
-│  Python · C · Assembly                                   │
-│                                                           │
-│  DATABASE                                                 │
-│  PostgreSQL · MySQL · SQL                                │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-> Novos projetos e experimentos serão adicionados conforme forem publicados.
+**Figma · Canva**
 
 ---
 
-### `PROJETOS PRIVADOS`
+## Experiência
 
-Alguns projetos próprios ainda estão em desenvolvimento privado.
+### Desenvolvimento Web
 
-Por enquanto, eles não fazem parte da minha vitrine pública, mas fazem parte importante do meu processo de aprendizado e evolução como desenvolvedor.
+Experiência com desenvolvimento de aplicações web, trabalhando principalmente com **JavaScript, TypeScript, React, Next.js, HTML e CSS**.
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│                 PRIVATE PROJECTS                    │
-│                                                     │
-│       Ideia → Desenvolvimento → Testes → Evolução   │
-│                                                     │
-│                   STATUS: PRIVATE                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+Atuação envolvendo:
 
----
+* Desenvolvimento de interfaces responsivas
+* Componentização
+* Integração entre front-end e back-end
+* Consumo de APIs
+* Desenvolvimento de sistemas
+* Integração com bancos de dados
+* Manutenção e evolução de aplicações
 
-## `05` — ATUALMENTE ESTUDANDO
+### Desenvolvimento de Sistemas
 
-### `CIÊNCIA DA COMPUTAÇÃO`
+Experiência no desenvolvimento de sistemas internos, atuando em diferentes partes da aplicação e trabalhando com **front-end, back-end e banco de dados**.
 
-```text
-├── Estruturas de Dados
-├── Algoritmos
-├── Programação Orientada a Objetos
-├── Banco de Dados
-├── Engenharia de Software
-├── Arquitetura de Computadores
-└── Sistemas Operacionais
-```
+Entre os tipos de soluções desenvolvidas estão sistemas para:
 
-### `DESENVOLVIMENTO DE SOFTWARE`
+* Gestão financeira
+* Gestão de contratos
+* Processos internos
+* LTCAT
 
-```text
-├── JavaScript
-├── TypeScript
-├── React
-├── Next.js
-├── Node.js
-├── NestJS
-└── PHP
-```
+### Tecnologia e Suporte
 
-### `BAIXO NÍVEL`
-
-```text
-├── C
-└── Assembly
-```
+Experiência com **suporte de TI e manutenção de computadores**, incluindo diagnóstico de problemas, manutenção de equipamentos e suporte relacionado à infraestrutura tecnológica.
 
 ---
 
-## `06` — EXPERIÊNCIA & EVOLUÇÃO
+## Formação
 
-Minha trajetória na tecnologia começou com o desenvolvimento web e continua sendo construída através de **estudo, projetos e experiências práticas**.
+### Ciência da Computação
 
-Ao longo dessa jornada, venho explorando diferentes partes do desenvolvimento de software, passando por **front-end, back-end, bancos de dados, suporte de TI e fundamentos da computação**.
+**CESAR School**
 
-Meu objetivo é construir uma base sólida em Ciência da Computação e evoluir continuamente como desenvolvedor.
-
-```text
-                    ┌───────────────┐
-                    │   APRENDER    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   CONSTRUIR   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    TESTAR     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    EVOLUIR    │
-                    └───────────────┘
-```
+Estudos envolvendo fundamentos de computação, programação, algoritmos, estruturas de dados, bancos de dados, arquitetura de computadores, engenharia de software e desenvolvimento de sistemas.
 
 ---
 
-## `07` — OBJETIVOS
+## Em aprendizado
 
-```text
-01  → Aprofundar meus conhecimentos em Ciência da Computação
+Além das tecnologias que já utilizo, atualmente estou expandindo meus conhecimentos em fundamentos de computação e programação de baixo nível.
 
-02  → Evoluir como desenvolvedor de software
+### C
 
-03  → Construir aplicações cada vez mais completas
+`Em aprendizado`
 
-04  → Aprender novas tecnologias e arquiteturas
+### Assembly
 
-05  → Transformar ideias em produtos reais
-```
+`Em aprendizado`
+
+Também continuo aprofundando meus conhecimentos em:
+
+`Estruturas de Dados` · `Algoritmos` · `Arquitetura de Software` · `Banco de Dados` · `Engenharia de Software`
 
 ---
 
-## `08` — CONTATO
+## Projetos
+
+Meus projetos são utilizados para aplicar conhecimentos na prática, experimentar tecnologias e desenvolver soluções completas.
+
+### Projetos públicos
+
+No meu GitHub você encontrará projetos relacionados a:
+
+* Desenvolvimento web
+* Aplicações em Python
+* Sistemas e ferramentas
+* APIs
+* Banco de dados
+* Projetos acadêmicos
+* Estudos de programação
+
+### Projetos privados
+
+Alguns projetos pessoais ainda estão em desenvolvimento privado e serão publicados conforme estiverem prontos para apresentação.
+
+---
+
+## Portfólio
 
 <div align="center">
 
-### `VAMOS CONSTRUIR ALGO?`
-
-<br>
+### Veja meus projetos e minha trajetória profissional
 
 <a href="https://portfolio-pedro-henrique-de-freitas.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfólio">
+  <img src="https://img.shields.io/badge/VER%20PORTFÓLIO-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Ver Portfólio">
 </a>
-&nbsp;
+
+</div>
+
+---
+
+## Objetivo profissional
+
+Busco oportunidades na área de **desenvolvimento de software**, especialmente em ambientes onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de produtos e soluções reais.
+
+Tenho interesse em continuar evoluindo principalmente nas áreas de:
+
+**Desenvolvimento Full Stack · Back-end · Engenharia de Software · Bancos de Dados**
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://portfolio-pedro-henrique-de-freitas.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+</a>
 <a href="https://github.com/pedro-de-freitas">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/pedro-henrique-de-freitas-131b68434/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;
 <a href="mailto:pedrohenriquedefreitasvl@gmail.com">
-  <img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  <img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
 </a>
 
 <br><br>
 
-`CÓDIGO` · `TECNOLOGIA` · `APRENDIZADO` · `EVOLUÇÃO`
+**Pedro de Freitas**
 
-<br>
-
-**© Pedro de Freitas**
+`Ciência da Computação · Desenvolvimento de Software`
 
 </div>
